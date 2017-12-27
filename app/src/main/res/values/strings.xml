@@ -1,0 +1,10 @@
+
+
+
+<resources>
+    <string name="app_name">Stack Machine</string>
+
+    <string name="menu_eula">EULA</string>
+    <string name="menu_info">Info</string>
+    <string name="button_OK">OK</string>
+</resources>

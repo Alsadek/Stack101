@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <!-- Textsize settings -->
+    <dimen name="textsize_max">36sp</dimen>
+    <dimen name="textsize_min">8sp</dimen>
+    <dimen name="textsize_huge">24sp</dimen>
+    <dimen name="textsize_big">22sp</dimen>
+    <dimen name="textsize_normal">18sp</dimen>
+    <dimen name="textsize_small">16sp</dimen>
+    <dimen name="textsize_title">40sp</dimen>
+
+</resources>
